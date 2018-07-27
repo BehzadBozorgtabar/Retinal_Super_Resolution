@@ -21,7 +21,7 @@ Otherwise, it will train the model first and then do the predictions.
 
 ## <a name="Citing"></a>Citing 
 
-If you use Densepose, please use the following BibTeX entry.
+If you use this code, please use the following BibTeX entry.
 
 ```
   @inproceedings{mahapatra2017image,
